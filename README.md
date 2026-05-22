@@ -3,5 +3,5 @@
 ## Estrutura inicial:
 
 x |ㅤ|ㅤ
-Oㅤ|O |ㅤ
+Oㅤ|O | x
 x |ㅤ|
